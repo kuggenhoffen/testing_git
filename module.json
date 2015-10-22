@@ -1,0 +1,9 @@
+{
+  "name": "testing-git",
+  "version": "0.0.0",
+  "description": "some testing module",
+  "keywords": [],
+  "author": "jaakko kukkohovi",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
